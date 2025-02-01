@@ -1,10 +1,16 @@
-[
+{
+  "proxies": [
     {
-        "ip": "77.83.80.165",
-        "port": 64471
+      "ip": "77.83.80.165",
+      "port": 64471,
+      "username": "yjF6NKpG",
+      "password": "8rDijEmh"
     },
     {
-        "ip": "123.45.67.89",
-        "port": 1080
+      "ip": "123.45.67.89",
+      "port": 1080,
+      "username": "yourUsername",
+      "password": "yourPassword"
     }
-]
+  ]
+}
